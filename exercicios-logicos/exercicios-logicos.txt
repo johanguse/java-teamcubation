@@ -1,0 +1,28 @@
+Nos exercícios abaixo, podem usar apenas o método main e a saída padrão para resolvê-los.
+
+Ex.:
+
+public class Exercicio {
+
+public static void main(String[] args) {
+System.out.println("Hello World");
+}
+}
+
+--
+
+1)Par ou Ímpar: Escreva um programa que solicite um número ao usuário e determine se é par ou ímpar usando operadores lógicos.
+
+2)Verificação de Número Positivo: Escreva um programa que verifique se um número fornecido pelo usuário é positivo usando operadores lógicos.
+
+3)Login Simples: Crie um sistema de login simples que solicite ao usuário um nome de usuário e uma senha. Verifique se o nome de usuário é "admin" e a senha é "12345" usando operadores lógicos.
+
+4) de Idade para Bebida Alcoólica: Escreva um programa que solicite a idade do usuário e determine se ele é elegível para comprar bebidas alcoólicas usando operadores lógicos.
+
+5)Acesso a Funcionalidade: Implemente um sistema de acesso a uma funcionalidade que requer a verificação de duas condições: o usuário deve ser maior de idade e deve ser um administrador.
+
+6)Acesso ao Cinema: Implemente um sistema de controle de acesso ao cinema. Os clientes podem entrar apenas se tiverem idade suficiente (maior de 18 anos) e se o filme for classificado como adequado para sua idade.
+
+7)Verificação de Letra Maiúscula: Escreva um programa que verifique se uma letra fornecida pelo usuário é maiúscula usando operadores lógicos.
+
+8)Validação de Número de Telefone: Implemente uma validação simples de número de telefone que verifica se o número fornecido pelo usuário tem 10 dígitos e começa com o código de área adequado.
